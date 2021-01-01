@@ -1,6 +1,5 @@
 <? php 
 echo " hello world: ;
-echo" new addition";
 <<<<<<< Updated upstream
 =======
 echo "hello maria :;
